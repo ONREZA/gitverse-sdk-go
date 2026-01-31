@@ -27,7 +27,7 @@ const (
 	DefaultTimeout = 30 * time.Second
 
 	// DefaultUserAgent - User-Agent по умолчанию
-	DefaultUserAgent = "github.com/RainyPixel/gitverse-sdk-go"
+	DefaultUserAgent = "github.com/ONREZA/gitverse-sdk-go"
 )
 
 // RateLimitInfo содержит информацию о лимитах запросов

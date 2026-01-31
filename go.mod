@@ -1,3 +1,3 @@
-module github.com/RainyPixel/gitverse-sdk-go
+module github.com/ONREZA/gitverse-sdk-go
 
 go 1.21

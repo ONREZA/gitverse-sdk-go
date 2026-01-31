@@ -2,13 +2,13 @@
 
 Go клиент для [GitVerse API](https://gitverse.ru).
 
-[![Go Reference](https://pkg.go.dev/badge/github.com/RainyPixel/gitverse-sdk-go.svg)](https://pkg.go.dev/github.com/RainyPixel/gitverse-sdk-go)
-[![Go Report Card](https://goreportcard.com/badge/github.com/RainyPixel/gitverse-sdk-go)](https://goreportcard.com/report/github.com/RainyPixel/gitverse-sdk-go)
+[![Go Reference](https://pkg.go.dev/badge/github.com/ONREZA/gitverse-sdk-go.svg)](https://pkg.go.dev/github.com/ONREZA/gitverse-sdk-go)
+[![Go Report Card](https://goreportcard.com/badge/github.com/ONREZA/gitverse-sdk-go)](https://goreportcard.com/report/github.com/ONREZA/gitverse-sdk-go)
 
 ## Установка
 
 ```bash
-go get github.com/RainyPixel/gitverse-sdk-go
+go get github.com/ONREZA/gitverse-sdk-go
 ```
 
 ## Быстрый старт
@@ -21,7 +21,7 @@ import (
     "fmt"
     "log"
 
-    gitverse "github.com/RainyPixel/gitverse-sdk-go"
+    gitverse "github.com/ONREZA/gitverse-sdk-go"
 )
 
 func main() {
