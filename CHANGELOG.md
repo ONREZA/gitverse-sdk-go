@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.0.4] - 2026-01-31
+
+### 🐛 Bug Fixes
+
+- bump to 1.0.3 to republish with correct uploadAsset build ([47bf434](https://gitverse.ru/onreza/gitverse-sdk/commit/47bf4346bc7e945735c69b574cbb4ad3b3ff6ae5)) by @Ivan Bobchenkov
+
 ## [1.0.2] - 2026-01-31
 
 ### Bug Fixes
